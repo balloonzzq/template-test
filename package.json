@@ -1,0 +1,20 @@
+{
+  "name": "template-test",
+  "version": "0.1.0",
+  "description": "download template test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balloonzzq/template-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balloonzzq/template-test/issues"
+  },
+  "homepage": "https://github.com/balloonzzq/template-test#readme"
+}
